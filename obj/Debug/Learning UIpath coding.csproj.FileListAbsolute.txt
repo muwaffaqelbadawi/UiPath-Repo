@@ -1,0 +1,8 @@
+D:\C#\Visual Studio\Learning UIpath coding\bin\Debug\Learning_UIpath_coding.exe.config
+D:\C#\Visual Studio\Learning UIpath coding\bin\Debug\Learning_UIpath_coding.exe
+D:\C#\Visual Studio\Learning UIpath coding\bin\Debug\Learning_UIpath_coding.pdb
+D:\C#\Visual Studio\Learning UIpath coding\obj\Debug\Learning UIpath coding.csproj.AssemblyReference.cache
+D:\C#\Visual Studio\Learning UIpath coding\obj\Debug\Learning UIpath coding.csproj.SuggestedBindingRedirects.cache
+D:\C#\Visual Studio\Learning UIpath coding\obj\Debug\Learning UIpath coding.csproj.CoreCompileInputs.cache
+D:\C#\Visual Studio\Learning UIpath coding\obj\Debug\Learning_UIpath_coding.exe
+D:\C#\Visual Studio\Learning UIpath coding\obj\Debug\Learning_UIpath_coding.pdb
